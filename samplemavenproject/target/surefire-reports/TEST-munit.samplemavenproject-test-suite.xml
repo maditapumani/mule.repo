@@ -1,0 +1,162 @@
+<testsuite name="samplemavenproject-test-suite" time="0.077" failures="0" errors="0" skipped="0" tests="1">
+  <properties>
+    <property key="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property key="file.encoding.pkg" value="sun.io"/>
+    <property key="LOGONSERVER" value="\\BG6DC3201"/>
+    <property key="ProgramData" value="C:\ProgramData"/>
+    <property key="java.home" value="C:\Program Files\Java\jdk1.8.0_77\jre"/>
+    <property key="TITLE" value="Tomcat"/>
+    <property key="NODE_NAME" value="master"/>
+    <property key="JENKINS_URL" value="http://localhost:8080/jenkins/"/>
+    <property key="CATALINA_HOME" value="C:\Users\maditapu.mani\Downloads\apache-tomcat-9.0.0.M4"/>
+    <property key="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property key="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\endorsed"/>
+    <property key="PSModulePath" value="C:\windows\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property key="USERDOMAIN" value="DIR"/>
+    <property key="sun.os.patch.level" value="Service Pack 1"/>
+    <property key="java.vendor.url" value="http://java.oracle.com/"/>
+    <property key="JAVA_OPTS" value=" -Djava.util.logging.config.file=&quot;C:\Users\maditapu.mani\Downloads\apache-tomcat-9.0.0.M4\conf\logging.properties&quot; -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property key="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property key="java.version" value="1.8.0_77"/>
+    <property key="JOB_NAME" value="Helloworld"/>
+    <property key="mule.encoding" value="UTF-8"/>
+    <property key="cloudhub.username" value="manim"/>
+    <property key="COMPUTERNAME" value="BDC6-D-9XNQ882"/>
+    <property key="windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log"/>
+    <property key="EXECUTABLE" value="C:\Users\maditapu.mani\Downloads\apache-tomcat-9.0.0.M4\bin\catalina.bat"/>
+    <property key="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property key="PUBLIC" value="C:\Users\Public"/>
+    <property key="user.name" value="maditapu.mani"/>
+    <property key="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property key="sun.jnu.encoding" value="Cp1252"/>
+    <property key="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property key="windir" value="C:\windows"/>
+    <property key="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 60 Stepping 3, GenuineIntel"/>
+    <property key="java.specification.name" value="Java Platform API Specification"/>
+    <property key="LOCALAPPDATA" value="C:\Users\maditapu.mani\AppData\Local"/>
+    <property key="user.timezone" value="Asia/Calcutta"/>
+    <property key="user.script" value=""/>
+    <property key="path.separator" value=";"/>
+    <property key="NUMBER_OF_PROCESSORS" value="4"/>
+    <property key="BUILD_TAG" value="jenkins-Helloworld-185"/>
+    <property key="windows_tracing_flags" value="3"/>
+    <property key="file.encoding" value="Cp1252"/>
+    <property key="sun.java.command" value="jenkins.maven3.agent.Maven31Main C:\Users\maditapu.mani\Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9 C:\Users\maditapu.mani\Downloads\apache-tomcat-9.0.0.M4\webapps\jenkins\WEB-INF\lib\remoting-2.56.jar C:\Users\maditapu.mani\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar C:\Users\maditapu.mani\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar 64350"/>
+    <property key="HUDSON_URL" value="http://localhost:8080/jenkins/"/>
+    <property key="JENKINS_SERVER_COOKIE" value="1b97312c3808f625"/>
+    <property key="EXECUTOR_NUMBER" value="1"/>
+    <property key="Path" value="C:\Program Files\Java\jdk1.8.0_77/bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Users\maditapu.mani\Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Program Files\Git\cmd"/>
+    <property key="java.io.tmpdir" value="C:\Users\MADITA~1.MAN\AppData\Local\Temp\"/>
+    <property key="APPDATA" value="C:\Users\maditapu.mani\AppData\Roaming"/>
+    <property key="user.language" value="en"/>
+    <property key="CATALINA_TMPDIR" value="C:\Users\maditapu.mani\Downloads\apache-tomcat-9.0.0.M4\temp"/>
+    <property key="line.separator" value="&#xd;&#xa;"/>
+    <property key="log4j.configurationFile" value="file:/C:/Users/maditapu.mani/AnypointStudio/workspace/samplemavenproject/target/test-classes/log4j2-test.xml"/>
+    <property key="BUILD_URL" value="http://localhost:8080/jenkins/job/Helloworld/185/"/>
+    <property key="ACTION" value="start"/>
+    <property key="M2_HOME" value="C:\Users\maditapu.mani\Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9"/>
+    <property key="=C:" value="C:\Users\maditapu.mani\Downloads\apache-tomcat-9.0.0.M4\bin"/>
+    <property key="java.vm.info" value="mixed mode"/>
+    <property key="sun.desktop" value="windows"/>
+    <property key="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property key="BUILD_DISPLAY_NAME" value="#185"/>
+    <property key="OS" value="Windows_NT"/>
+    <property key="guice.disable.misplaced.annotation.check" value="true"/>
+    <property key="CATALINA_BASE" value="C:\Users\maditapu.mani\Downloads\apache-tomcat-9.0.0.M4"/>
+    <property key="HUDSON_SERVER_COOKIE" value="1b97312c3808f625"/>
+    <property key="JRE_HOME" value="C:\Program Files\Java\jre1.8.0_77"/>
+    <property key="_EXECJAVA" value="start &quot;Tomcat&quot; &quot;C:\Program Files\Java\jre1.8.0_77\bin\java.exe&quot;"/>
+    <property key="_RUNJAVA" value="&quot;C:\Program Files\Java\jre1.8.0_77\bin\java.exe&quot;"/>
+    <property key="MAVEN_HOME" value="C:\Users\maditapu.mani\Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9"/>
+    <property key="SESSIONNAME" value="Console"/>
+    <property key="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property key="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property key="maven3.interceptor.common" value="C:\Users\maditapu.mani\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar"/>
+    <property key="CLASSPATH" value=""/>
+    <property key="LOGGING_CONFIG" value="-Djava.util.logging.config.file=&quot;C:\Users\maditapu.mani\Downloads\apache-tomcat-9.0.0.M4\conf\logging.properties&quot;"/>
+    <property key="cloudhub.domain" value="MavenCloud"/>
+    <property key="HOMEPATH" value="\Users\maditapu.mani"/>
+    <property key="os.name" value="Windows 7"/>
+    <property key="java.specification.vendor" value="Oracle Corporation"/>
+    <property key="FP_NO_HOST_CHECK" value="NO"/>
+    <property key="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property key="BUILD_NUMBER" value="185"/>
+    <property key="maven3.interceptor" value="C:\Users\maditapu.mani\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar"/>
+    <property key="java.library.path" value="C:\Program Files\Java\jdk1.8.0_77\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Users\maditapu.mani\Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9/bin;C:\Program Files\Java\jdk1.8.0_77/bin;C:\Program Files\Java\jdk1.8.0_77/bin;C:\ProgramData\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Users\maditapu.mani\Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Program Files\Git\cmd;."/>
+    <property key="HOMEDRIVE" value="C:"/>
+    <property key="mule.testingMode" value="true"/>
+    <property key="POM_GROUPID" value="com.mycompany"/>
+    <property key="POM_ARTIFACTID" value="samplemavenproject"/>
+    <property key="java.class.version" value="52.0"/>
+    <property key="LOGGING_MANAGER" value="-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property key="_RUNJDB" value="&quot;C:\Program Files\Java\jdk1.8.0_77\bin\jdb.exe&quot;"/>
+    <property key="JOB_URL" value="http://localhost:8080/jenkins/job/Helloworld/"/>
+    <property key="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
+    <property key="MpConfig_ProductPath" value="C:\Program Files\Windows Defender"/>
+    <property key="JENKINS_HOME" value="C:\Users\maditapu.mani\.jenkins"/>
+    <property key="SYSDRIVE" value="%SYSTEMFOLDER%"/>
+    <property key="BUILD_ID" value="185"/>
+    <property key="TEMP" value="C:\Users\MADITA~1.MAN\AppData\Local\Temp"/>
+    <property key="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\bin"/>
+    <property key="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property key="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property key="user.variant" value=""/>
+    <property key="PROCESSOR_REVISION" value="3c03"/>
+    <property key="MpConfig_ProductCodeName" value="AntiSpyware"/>
+    <property key="POM_VERSION" value="1.0.0-SNAPSHOT"/>
+    <property key="HUDSON_HOME" value="C:\Users\maditapu.mani\.jenkins"/>
+    <property key="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property key="PATH+MAVEN" value="C:\Users\maditapu.mani\Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9/bin"/>
+    <property key="PROMPT" value="$P$G"/>
+    <property key="CURRENT_DIR" value="C:\Users\maditapu.mani\Downloads\apache-tomcat-9.0.0.M4\bin"/>
+    <property key="java.vm.specification.version" value="1.8"/>
+    <property key="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_77"/>
+    <property key="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property key="NODE_LABELS" value="master"/>
+    <property key="sun.cpu.isalist" value="amd64"/>
+    <property key="USERPROFILE" value="C:\Users\maditapu.mani"/>
+    <property key="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property key="os.version" value="6.1"/>
+    <property key="cloudhub.password" value="Girija@1"/>
+    <property key="USERNAME" value="maditapu.mani"/>
+    <property key="user.home" value="C:\Users\maditapu.mani"/>
+    <property key="java.vm.vendor" value="Oracle Corporation"/>
+    <property key="PROCESSOR_LEVEL" value="6"/>
+    <property key="USERDNSDOMAIN" value="DIR.SVC.ACCENTURE.COM"/>
+    <property key="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property key="user.dir" value="C:\Users\maditapu.mani\AnypointStudio\workspace\samplemavenproject"/>
+    <property key="ProgramW6432" value="C:\Program Files"/>
+    <property key="TMP" value="C:\Users\MADITA~1.MAN\AppData\Local\Temp"/>
+    <property key="UATDATA" value="C:\windows\SysWOW64\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
+    <property key="MpConfig_ReportingGUID" value="A4D70BE4-7AB0-9071-F0BC-233A7BCD511D"/>
+    <property key="sun.cpu.endian" value="little"/>
+    <property key="SystemDrive" value="C:"/>
+    <property key="java.vm.version" value="25.77-b03"/>
+    <property key="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property key="java.class.path" value="C:\Users\maditapu.mani\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.5.jar;C:\Users\maditapu.mani\Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;C:\Users\maditapu.mani\Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9/conf/logging"/>
+    <property key="MAVEN_OPTS" value="-Xmx1024m"/>
+    <property key="MpConfig_ProductUserAppDataPath" value="C:\Users\maditapu.mani\AppData\Local\Microsoft\Windows Defender"/>
+    <property key="MpConfig_ProductAppDataPath" value="C:\ProgramData\Microsoft\Windows Defender"/>
+    <property key="os.arch" value="amd64"/>
+    <property key="WORKSPACE" value="C:\Users\maditapu.mani\.jenkins\workspace\Helloworld"/>
+    <property key="ComSpec" value="C:\windows\system32\cmd.exe"/>
+    <property key="sun.java.launcher" value="SUN_STANDARD"/>
+    <property key="SystemRoot" value="C:\windows"/>
+    <property key="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property key="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property key="file.separator" value="\"/>
+    <property key="java.runtime.version" value="1.8.0_77-b03"/>
+    <property key="ProgramFiles" value="C:\Program Files"/>
+    <property key="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_77\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_77\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_77\jre\classes"/>
+    <property key="MULE_HOME" value="C:\Users\maditapu.mani\Downloads\mule-standalone-3.7.0\mule-standalone-3.7.0"/>
+    <property key="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_77/bin"/>
+    <property key="user.country" value="US"/>
+    <property key="POM_PACKAGING" value="mule"/>
+    <property key="maven.home" value="C:\Users\maditapu.mani\Downloads\apache-maven-3.3.9-bin\apache-maven-3.3.9"/>
+    <property key="java.vendor" value="Oracle Corporation"/>
+    <property key="java.specification.version" value="1.8"/>
+    <property key="POM_DISPLAYNAME" value="Mule samplemavenproject Application"/>
+    <property key="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase time="0.077" name="samplemavenproject-test-suite-samplemavenprojectFlowTest" classname="samplemavenproject-test-suite"/>
+</testsuite>
